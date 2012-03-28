@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dfc6b6a2-1983-48ec-999c-a41836b04157" name="Scotty Viscocity@VISCOUSPC 2012-02-21 19:32:59" runUser="ViscousPC\Scotty Viscocity" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6d1e9696-581b-4414-880d-32a74bbef34d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Scotty Viscocity_VISCOUSPC 2012-02-21 19_32_59">
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-21T19:32:59.6325107-06:00" queuing="2012-02-21T19:33:15.7424322-06:00" start="2012-02-21T19:33:16.0124476-06:00" finish="2012-02-21T19:33:42.1169407-06:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="9" executed="7" passed="6" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="2" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VISCOUSPC" outcome="Error" timestamp="2012-02-21T19:33:42.1149406-06:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestIsDestroyed_True" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="a8bb8e6a-4078-493f-5a52-3c33dead03a9">
+      <Execution id="eea36861-a78f-4cd4-a709-ae94fccd95a8" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_Ship, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsDestroyed_True" />
+    </UnitTest>
+    <UnitTest name="TestInitialize" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="5b418a9d-d71e-dc12-2641-e67bf8e7d161">
+      <Execution id="f7958444-a578-4f62-8231-920e6be7d6e2" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_EasyAI_Player, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInitialize" />
+    </UnitTest>
+    <UnitTest name="TestPlacementCreatesConflict" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="359c968f-4820-e386-ddc4-9ba4077decf4">
+      <Execution id="9369137e-a653-4ff4-9077-56df5f914dbc" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_ShipPlacementHelper, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPlacementCreatesConflict" />
+    </UnitTest>
+    <UnitTest name="TestIsDestroyed_False1" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="8e6ede48-b4a4-c394-0754-bba834efd813">
+      <Execution id="81058655-8fbc-4598-99ef-3b5232f31810" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_Ship, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsDestroyed_False1" />
+    </UnitTest>
+    <UnitTest name="TestIsOutOfBounds" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="84f13ba1-51e4-b026-2a45-d550c1b13a66">
+      <Execution id="f9e461ae-b3f4-44fd-918e-4199fdb94616" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_ShipPlacementHelper, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsOutOfBounds" />
+    </UnitTest>
+    <UnitTest name="TestPlaceShips" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="a30b6668-9c31-82c0-f63d-0178d29e49a6">
+      <Execution id="defe037e-6752-48a8-a34c-c0103cae02d8" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_EasyAI_Player, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPlaceShips" />
+    </UnitTest>
+    <UnitTest name="TestIsInvalidPlacement" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="62b91659-9230-16e7-ad72-b8bacbbccbb1">
+      <Execution id="7208c84d-6c8a-42ab-bc2b-bdaea21fadca" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_ShipPlacementHelper, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsInvalidPlacement" />
+    </UnitTest>
+    <UnitTest name="TestInitialize" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="ce21906f-255c-3cee-9d5e-8b16df3d0f9f">
+      <Execution id="ce7c671b-09f1-4031-a6c3-ee47bcd1ef5c" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_BattleShipGame, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInitialize" />
+    </UnitTest>
+    <UnitTest name="TestIsDestroyed_False2" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="4febe331-5c84-6e38-1a56-52096688bd87">
+      <Execution id="aef08e9d-c0e6-4c02-8289-7dfc5d538ee6" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_Ship, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIsDestroyed_False2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="359c968f-4820-e386-ddc4-9ba4077decf4" executionId="9369137e-a653-4ff4-9077-56df5f914dbc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4febe331-5c84-6e38-1a56-52096688bd87" executionId="aef08e9d-c0e6-4c02-8289-7dfc5d538ee6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5b418a9d-d71e-dc12-2641-e67bf8e7d161" executionId="f7958444-a578-4f62-8231-920e6be7d6e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="62b91659-9230-16e7-ad72-b8bacbbccbb1" executionId="7208c84d-6c8a-42ab-bc2b-bdaea21fadca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84f13ba1-51e4-b026-2a45-d550c1b13a66" executionId="f9e461ae-b3f4-44fd-918e-4199fdb94616" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8e6ede48-b4a4-c394-0754-bba834efd813" executionId="81058655-8fbc-4598-99ef-3b5232f31810" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a30b6668-9c31-82c0-f63d-0178d29e49a6" executionId="defe037e-6752-48a8-a34c-c0103cae02d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8bb8e6a-4078-493f-5a52-3c33dead03a9" executionId="eea36861-a78f-4cd4-a709-ae94fccd95a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ce21906f-255c-3cee-9d5e-8b16df3d0f9f" executionId="ce7c671b-09f1-4031-a6c3-ee47bcd1ef5c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9369137e-a653-4ff4-9077-56df5f914dbc" testId="359c968f-4820-e386-ddc4-9ba4077decf4" testName="TestPlacementCreatesConflict" computerName="VISCOUSPC" duration="00:00:00.0151149" startTime="2012-02-21T19:33:16.2264599-06:00" endTime="2012-02-21T19:33:17.6975440-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9369137e-a653-4ff4-9077-56df5f914dbc">
+    </UnitTestResult>
+    <UnitTestResult executionId="aef08e9d-c0e6-4c02-8289-7dfc5d538ee6" testId="4febe331-5c84-6e38-1a56-52096688bd87" testName="TestIsDestroyed_False2" computerName="VISCOUSPC" duration="00:00:00.0012028" startTime="2012-02-21T19:33:17.7065445-06:00" endTime="2012-02-21T19:33:17.7125449-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aef08e9d-c0e6-4c02-8289-7dfc5d538ee6">
+    </UnitTestResult>
+    <UnitTestResult executionId="f7958444-a578-4f62-8231-920e6be7d6e2" testId="5b418a9d-d71e-dc12-2641-e67bf8e7d161" testName="TestInitialize" computerName="VISCOUSPC" duration="00:00:00.0040698" startTime="2012-02-21T19:33:17.7215454-06:00" endTime="2012-02-21T19:33:17.7295458-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f7958444-a578-4f62-8231-920e6be7d6e2">
+    </UnitTestResult>
+    <UnitTestResult executionId="7208c84d-6c8a-42ab-bc2b-bdaea21fadca" testId="62b91659-9230-16e7-ad72-b8bacbbccbb1" testName="TestIsInvalidPlacement" computerName="VISCOUSPC" duration="00:00:00.0016379" startTime="2012-02-21T19:33:17.7385464-06:00" endTime="2012-02-21T19:33:17.7445467-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7208c84d-6c8a-42ab-bc2b-bdaea21fadca">
+    </UnitTestResult>
+    <UnitTestResult executionId="f9e461ae-b3f4-44fd-918e-4199fdb94616" testId="84f13ba1-51e4-b026-2a45-d550c1b13a66" testName="TestIsOutOfBounds" computerName="VISCOUSPC" duration="00:00:00.0009534" startTime="2012-02-21T19:33:17.7535472-06:00" endTime="2012-02-21T19:33:17.7575474-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f9e461ae-b3f4-44fd-918e-4199fdb94616">
+    </UnitTestResult>
+    <UnitTestResult executionId="81058655-8fbc-4598-99ef-3b5232f31810" testId="8e6ede48-b4a4-c394-0754-bba834efd813" testName="TestIsDestroyed_False1" computerName="VISCOUSPC" duration="00:00:00.0002966" startTime="2012-02-21T19:33:17.7665480-06:00" endTime="2012-02-21T19:33:17.7705482-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81058655-8fbc-4598-99ef-3b5232f31810">
+    </UnitTestResult>
+    <UnitTestResult executionId="defe037e-6752-48a8-a34c-c0103cae02d8" testId="a30b6668-9c31-82c0-f63d-0178d29e49a6" testName="TestPlaceShips" computerName="VISCOUSPC" duration="00:00:24.3373920" startTime="2012-02-21T19:33:17.7795487-06:00" endTime="2012-02-21T19:33:42.1169407-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="defe037e-6752-48a8-a34c-c0103cae02d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="eea36861-a78f-4cd4-a709-ae94fccd95a8" testId="a8bb8e6a-4078-493f-5a52-3c33dead03a9" testName="TestIsDestroyed_True" computerName="VISCOUSPC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eea36861-a78f-4cd4-a709-ae94fccd95a8">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce7c671b-09f1-4031-a6c3-ee47bcd1ef5c" testId="ce21906f-255c-3cee-9d5e-8b16df3d0f9f" testName="TestInitialize" computerName="VISCOUSPC" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce7c671b-09f1-4031-a6c3-ee47bcd1ef5c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BattleShipGameInfo>
+    <StartingShips>
+        <Ship name="ShipOfTheLine" displayName="ShipOfTheLine" numSections="4" shipImage="resources/images/ships/ship_4_Black.png"/>
+        <Ship name="Frigate" displayName="Frigate" numSections="4" shipImage="resources/images/ships/ship_4_White.png"/>
+        <Ship name="Galleon" displayName="Galleon" numSections="3" shipImage="resources/images/ships/ship_3_Black.png"/>
+        <Ship name="Caravel" displayName="Caravel" numSections="3" shipImage="resources/images/ships/ship_3_White.png"/>
+        <Ship name="Sloop" displayName="Sloop" numSections="2" shipImage="resources/images/ships/ship_2.png"/>
+    </StartingShips>
+    <Players>
+        <!--<Player name="Black Beard" AI_Difficulty="HARD" playerImage="resources/images/players/BlackBeard.png"/>-->
+        <Player name="Broderick Rotmeat" AI_Difficulty="EASY" playerImage="resources/images/players/alan.png"/>
+        <Player name="Broderick Rotmeat" AI_Difficulty="NORMAL" playerImage="resources/images/players/bob.png"/>
+        <Player name="Hidalgo Cutler" AI_Difficulty="HARD" playerImage="resources/images/players/jerry.png"/>
+    </Players>
+</BattleShipGameInfo>

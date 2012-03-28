@@ -1,0 +1,65 @@
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\BattleShipGameInfo.xml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\App.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip_Content.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip_MarkupCompile.cache
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip_MarkupCompile.lref
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\MainWindow.baml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip.g.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Hit.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Miss.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Unknown.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\players\alan.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\players\bob.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\players\jerry.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_2.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_3_Black.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_3_White.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_4_Black.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_4_White.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481\BattleShip\BattleShip\bin\Debug\resources\images\playerPanelBackground.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\setupBackground.jpg
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_4.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_5.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_6.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_7.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\Opponents.xml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Hit.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Miss.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\attacks\attackResult_Unknown.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShipGameInfo.xml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\mainWindowBackground.jpg
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\playerPanelBackground.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_1.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_2.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\players\player_3.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_2.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_3_Black.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_3_White.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_4_Black.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\resources\images\ships\ship_4_White.png
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\SetupGame.baml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\SetupGame.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\App.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip_Content.g.cs
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip_MarkupCompile.cache
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip_MarkupCompile.lref
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\MainWindow.baml
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip.g.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb

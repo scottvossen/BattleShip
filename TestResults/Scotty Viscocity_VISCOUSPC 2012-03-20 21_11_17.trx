@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="08ae1505-bb4b-4a10-8478-a8c92ca093d3" name="Scotty Viscocity@VISCOUSPC 2012-03-20 21:11:17" runUser="ViscousPC\Scotty Viscocity" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6d1e9696-581b-4414-880d-32a74bbef34d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Scotty Viscocity_VISCOUSPC 2012-03-20 21_11_17">
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-20T21:11:17.8058111-05:00" queuing="2012-03-20T21:11:21.0913230-05:00" start="2012-03-20T21:11:21.1713231-05:00" finish="2012-03-20T21:12:09.8572235-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VISCOUSPC" outcome="Error" timestamp="2012-03-20T21:12:09.8552233-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestInitialize" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="b10a5d11-4256-7f99-c6d5-d9e44c962161">
+      <Execution id="9c084ea5-44c8-4c9d-b1e2-1572ef725b55" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.IntegrationTest_BattleShipGame, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInitialize" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b10a5d11-4256-7f99-c6d5-d9e44c962161" executionId="9c084ea5-44c8-4c9d-b1e2-1572ef725b55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9c084ea5-44c8-4c9d-b1e2-1572ef725b55" testId="b10a5d11-4256-7f99-c6d5-d9e44c962161" testName="TestInitialize" computerName="VISCOUSPC" duration="00:00:48.6349002" startTime="2012-03-20T21:11:21.2213232-05:00" endTime="2012-03-20T21:12:09.8562234-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c084ea5-44c8-4c9d-b1e2-1572ef725b55">
+    </UnitTestResult>
+  </Results>
+</TestRun>

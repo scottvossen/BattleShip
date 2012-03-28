@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="292dc249-4056-4afb-826a-ca8e6ddfedaf" name="Scotty Viscocity@VISCOUSPC 2012-02-21 19:44:28" runUser="ViscousPC\Scotty Viscocity" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6d1e9696-581b-4414-880d-32a74bbef34d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Scotty Viscocity_VISCOUSPC 2012-02-21 19_44_28">
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-02-21T19:44:28.3359023-06:00" queuing="2012-02-21T19:44:28.4369081-06:00" start="2012-02-21T19:44:28.4419084-06:00" finish="2012-02-21T19:44:28.7089237-06:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAttack" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="6dcbe74e-67f1-9e5a-4546-c4b068f925ed">
+      <Execution id="a94ef19b-ffc0-4fa2-bc4d-ed4ea0e92075" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.UnitTest_EasyAI_Player, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAttack" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6dcbe74e-67f1-9e5a-4546-c4b068f925ed" executionId="a94ef19b-ffc0-4fa2-bc4d-ed4ea0e92075" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a94ef19b-ffc0-4fa2-bc4d-ed4ea0e92075" testId="6dcbe74e-67f1-9e5a-4546-c4b068f925ed" testName="TestAttack" computerName="VISCOUSPC" duration="00:00:00.0185910" startTime="2012-02-21T19:44:28.4479087-06:00" endTime="2012-02-21T19:44:28.6899226-06:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a94ef19b-ffc0-4fa2-bc4d-ed4ea0e92075">
+    </UnitTestResult>
+  </Results>
+</TestRun>

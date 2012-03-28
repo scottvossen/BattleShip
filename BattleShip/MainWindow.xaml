@@ -1,0 +1,68 @@
+﻿<Window x:Class="BattleShip.MainWindow"
+        x:Name="mainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:c="clr-namespace:BattleShip"
+        Title="Battleship" Height="625" Width="1125" MinHeight="675" MinWidth="1125" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid x:Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="resources\images\mainWindowBackground.jpg" Stretch="Fill"/>
+        </Grid.Background>
+        <DockPanel>
+            <DockPanel x:Name="TopPanel" DockPanel.Dock="Top" Margin="20, 5, 20, 5">
+                <StackPanel DockPanel.Dock="Left">
+                    <Button x:Name="newGame" Click="newGame_Click">New Game</Button>
+                </StackPanel>
+                <Label HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" Content="BATTLESHIP" Target="{Binding}" IsEnabled="True"></Label>
+            </DockPanel>
+            <DockPanel x:Name="Player1_Panel" Margin="20, 0, 20, 20" Width="150">
+                <DockPanel.Background>
+                    <ImageBrush ImageSource="resources\images\playerPanelBackground.png" Stretch="UniformToFill"/>
+                </DockPanel.Background>
+                <Button x:Name="resetShips" DockPanel.Dock="Bottom" Click="resetShips_Click">Reset Ships</Button>
+                <Button x:Name="placeShips" DockPanel.Dock="Bottom" Click="placeShips_Click">Place Ships</Button>
+                <StackPanel Orientation="Vertical" DockPanel.Dock="Left">
+                    <Border CornerRadius="10" BorderThickness="5" BorderBrush="Black">
+                        <Image x:Name="player1_Image" HorizontalAlignment="Center" VerticalAlignment="Center"  Stretch="UniformToFill"/>
+                    </Border>
+                    <Label x:Name="player1_Name" HorizontalAlignment="Center" FontWeight="Bold" FontSize="12"/>
+                    <StackPanel x:Name="player1_Ships" Orientation="Vertical"/>
+                </StackPanel>
+            </DockPanel>
+            <StackPanel x:Name="OpponentPanel" Orientation="Vertical" DockPanel.Dock="Right" Margin="20, 0, 20, 20" Width="150">
+                <StackPanel.Background>
+                    <ImageBrush ImageSource="resources\images\playerPanelBackground.png" Stretch="UniformToFill"/>
+                </StackPanel.Background>
+                <Border CornerRadius="10" BorderThickness="5" BorderBrush="Black">
+                    <Image x:Name="player2_Image" HorizontalAlignment="Center" Stretch="UniformToFill"/>
+                </Border>
+                <Label x:Name="player2_Name" HorizontalAlignment="Center" FontWeight="Bold" FontSize="12"/>
+                <StackPanel x:Name="player2_Ships" Orientation="Vertical"/>
+            </StackPanel>
+            <StackPanel x:Name="notificationPanel" Orientation="Vertical" DockPanel.Dock="Bottom" Margin="0,0,0,20" Height="80">
+                <StackPanel.Background>
+                <ImageBrush ImageSource="resources\images\notificationPanelBackground.png" Stretch="UniformToFill"/>
+            </StackPanel.Background>
+            </StackPanel>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                
+                <Grid x:Name="shipBoard" Grid.Column="0" VerticalAlignment="Center" Height="{Binding ElementName=shipBoard, Path=ActualWidth}">
+                    <Grid.Background>
+                        <ImageBrush ImageSource="resources\images\board.png" Stretch="Uniform"/>
+                    </Grid.Background>
+                </Grid>
+                
+                <Grid x:Name="hitBoard" Grid.Column="2" VerticalAlignment="Center" Height="{Binding ElementName=hitBoard, Path=ActualWidth}">
+                    <Grid.Background>
+                        <ImageBrush ImageSource="resources\images\board.png" Stretch="Uniform"/>
+                    </Grid.Background>
+                </Grid>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

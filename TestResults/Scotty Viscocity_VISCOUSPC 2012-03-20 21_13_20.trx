@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7856cb3f-5d46-4718-9383-1d7fdd0db8cd" name="Scotty Viscocity@VISCOUSPC 2012-03-20 21:13:20" runUser="ViscousPC\Scotty Viscocity" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6d1e9696-581b-4414-880d-32a74bbef34d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Scotty Viscocity_VISCOUSPC 2012-03-20 21_13_20">
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\bin\Debug\BattleShip.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-20T21:13:20.1626014-05:00" queuing="2012-03-20T21:13:20.6386287-05:00" start="2012-03-20T21:13:20.6716306-05:00" finish="2012-03-20T21:13:21.4436725-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestInitialize" storage="c:\users\scotty viscocity\desktop\stuff\school\msu\8_spring 2012\cs 481 - software engineering\battleship\battleshiptests\bin\debug\battleshiptests.dll" id="b10a5d11-4256-7f99-c6d5-d9e44c962161">
+      <Execution id="1de1bc21-8270-417b-bffe-df02cfa82872" />
+      <TestMethod codeBase="C:/Users/Scotty Viscocity/Desktop/Stuff/School/MSU/8_Spring 2012/CS 481 - Software Engineering/BattleShip/BattleShipTests/bin/Debug/BattleShipTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BattleShipTests.IntegrationTest_BattleShipGame, BattleShipTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestInitialize" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b10a5d11-4256-7f99-c6d5-d9e44c962161" executionId="1de1bc21-8270-417b-bffe-df02cfa82872" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1de1bc21-8270-417b-bffe-df02cfa82872" testId="b10a5d11-4256-7f99-c6d5-d9e44c962161" testName="TestInitialize" computerName="VISCOUSPC" duration="00:00:00.1917453" startTime="2012-03-20T21:13:20.6876315-05:00" endTime="2012-03-20T21:13:21.3696682-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1de1bc21-8270-417b-bffe-df02cfa82872">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method BattleShipTests.IntegrationTest_BattleShipGame.TestInitialize threw exception: 
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\TestResults\Scotty Viscocity_VISCOUSPC 2012-03-20 21_13_20\Out\BattleShipGameInfo.xml'.</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   at System.Threading.CompressedStack.runTryCode(Object userData)
+   at System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   at System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at BattleShip.GameInfoHelper..ctor() in C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\BattleShipGame.cs:line 158
+   at BattleShip.BatteShipGame..ctor(IPlayer cpu, IPlayer humanOrCpu, Coordinate boardDims, ShipPlacementHelper sph) in C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShip\BattleShipGame.cs:line 235
+   at BattleShipTests.IntegrationTest_BattleShipGame.TestInitialize() in C:\Users\Scotty Viscocity\Desktop\Stuff\School\MSU\8_Spring 2012\CS 481 - Software Engineering\BattleShip\BattleShipTests\IntegrationTest_BattleShipGame.cs:line 47
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
